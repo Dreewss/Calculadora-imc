@@ -17,8 +17,3 @@ Certifique-se de ter instalado em sua máquina:
 
 - [Python 3.8+]
 
-Clonando
-
-  ```bash
-    git clone https://github.com/Dreewss/Calculadora-imc.git
-```
